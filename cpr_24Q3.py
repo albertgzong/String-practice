@@ -1,3 +1,4 @@
+# using zero imports
 def trim_abc(string):
     lookup = "abcdefghijklmnopqrstuvwxyz"
     result = ""
